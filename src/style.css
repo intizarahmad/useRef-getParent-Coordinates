@@ -1,0 +1,23 @@
+h1,
+p {
+  font-family: Lato;
+}
+.box {
+  height: 100px;
+  width: auto;
+  background-color: green;
+  display: flex;
+}
+.small-box {
+  margin: 20px;
+  position: relative;
+  background-color: red;
+  width: 100%;
+  height: 50px;
+  text-align: center;
+  align-items: center;
+  align-content: center;
+}
+.overlay {
+  background-color: aqua;
+}
